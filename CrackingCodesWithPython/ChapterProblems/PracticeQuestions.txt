@@ -1,0 +1,29 @@
+Chapter 1
+
+Answers to the practice questions can be found on the book’s website at
+https://www.nostarch.com/crackingcodes/.
+1.	Encrypt the following entries from Ambrose Bierce’s The Devil’s Dictionary
+with the given keys:
+a.	With key 4: “AMBIDEXTROUS: Able to pick with equal skill a righthand
+pocket or a left.”
+b.	With key 17: “GUILLOTINE: A machine which makes a Frenchman
+shrug his shoulders with good reason.”
+c.	With key 21: “IMPIETY: Your irreverence toward my deity.”
+
+2.	Decrypt the following ciphertexts with the given keys:
+a.	With key 15: “ZXAI: P RDHIJBT HDBTIXBTH LDGC QN HRDIRWBTC
+XC PBTGXRP PCS PBTGXRPCH XC HRDIAPCS.”
+b.	With key 4: “MQTSWXSV: E VMZEP EWTMVERX XS TYFPMG
+LSRSVW.”
+
+3.	Encrypt the following sentence with the key 0: “This is a silly example.”
+
+4.	Here are some words and their encryptions. Which key was used for
+each word?
+a.	ROSEBUD – LIMYVOX
+b.	YAMAMOTO – PRDRDFKF
+c.	ASTRONOMY – HZAYVUVTF
+
+5.	What does this sentence encrypted with key 8 decrypt to with key 9?
+“UMMSVMAA: Cvkwuuwv xibqmvkm qv xtivvqvo i zmdmvom bpib qa
+ewzbp epqtm.”
